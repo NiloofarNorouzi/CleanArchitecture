@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KggG7ik1rm3JUiG25spl26TDOStB8s0HEypXr+f54LsCdxjPmHKwJ1iZXQEV9YUb3sjiDtYlUs0LdPSyZYU4xg==",
+  "dgSpecHash": "Wdu+F7TGt3f8Ne08Dz7BHcHI7La+PymDhNT0xEy6V8vaB1bQiXbOWwoPYl/rbFziZRHoKxpfaB6sARfp86GrYA==",
   "success": true,
-  "projectFilePath": "C:\\HADI\\Personal\\SandboxProjects\\DotnetCore\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+  "projectFilePath": "C:\\HADI\\Personal\\SandboxProjects\\DotnetCore\\CleanArchitecture\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

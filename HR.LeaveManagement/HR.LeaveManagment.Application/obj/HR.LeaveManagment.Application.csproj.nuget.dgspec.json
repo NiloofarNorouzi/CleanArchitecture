@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HADI\\Personal\\SandboxProjects\\DotnetCore\\HR.LeaveManagement\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj": {}
+    "C:\\HADI\\Personal\\SandboxProjects\\DotnetCore\\CleanArchitecture\\HR.LeaveManagement\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj": {}
   },
   "projects": {
-    "C:\\HADI\\Personal\\SandboxProjects\\DotnetCore\\HR.LeaveManagement\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj": {
+    "C:\\HADI\\Personal\\SandboxProjects\\DotnetCore\\CleanArchitecture\\HR.LeaveManagement\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HADI\\Personal\\SandboxProjects\\DotnetCore\\HR.LeaveManagement\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj",
+        "projectUniqueName": "C:\\HADI\\Personal\\SandboxProjects\\DotnetCore\\CleanArchitecture\\HR.LeaveManagement\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj",
         "projectName": "HR.LeaveManagment.Application",
-        "projectPath": "C:\\HADI\\Personal\\SandboxProjects\\DotnetCore\\HR.LeaveManagement\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj",
+        "projectPath": "C:\\HADI\\Personal\\SandboxProjects\\DotnetCore\\CleanArchitecture\\HR.LeaveManagement\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj",
         "packagesPath": "C:\\Users\\hadi.hosseininejad\\.nuget\\packages\\",
-        "outputPath": "C:\\HADI\\Personal\\SandboxProjects\\DotnetCore\\HR.LeaveManagement\\HR.LeaveManagment.Application\\obj\\",
+        "outputPath": "C:\\HADI\\Personal\\SandboxProjects\\DotnetCore\\CleanArchitecture\\HR.LeaveManagement\\HR.LeaveManagment.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
