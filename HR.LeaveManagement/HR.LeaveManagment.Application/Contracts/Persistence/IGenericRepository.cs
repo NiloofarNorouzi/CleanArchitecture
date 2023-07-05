@@ -9,4 +9,5 @@ namespace HR.LeaveManagment.Application.Contracts.Persistence;
 
 public interface IGenericRepository<T> where T : BaseEntity
 {
+       
 }
