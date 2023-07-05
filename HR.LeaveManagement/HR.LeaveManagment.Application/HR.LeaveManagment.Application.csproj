@@ -10,4 +10,8 @@
     <Folder Include="Contracts\Persistence\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
